@@ -35,6 +35,7 @@ Data fun:
 
 Random:
 
+- 🛠️ [skeel](https://github.com/mavam/skeel): Declarative skill management for GitOps workflows
 - 📊 [clattio](https://github.com/mavam/clattio): [Attio](https://attio.com) CLI
 - ❣️ [dotfiles](https://github.com/mavam/dotfiles): The very heart of an efficient work environment
 - 🔫 [ml-driver](https://github.com/mavam/ml-driver): Linux kernel driver for the DreamCheeky USB missile launcher
