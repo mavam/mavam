@@ -34,9 +34,9 @@ Data fun:
 
 Random:
 
-- 🛠️ [skeel](https://github.com/mavam/skeel): Declarative skill management for GitOps workflows
+- 🛠️ [skeel](https://github.com/mavam/skeel): declarative skill management for GitOps workflows
 - 📊 [clattio](https://github.com/mavam/clattio): [Attio](https://attio.com) CLI
-- ❣️ [dotfiles](https://github.com/mavam/dotfiles): The very heart of an efficient work environment
+- ❣️ [dotfiles](https://github.com/mavam/dotfiles): the very heart of an efficient work environment
 - 🔫 [ml-driver](https://github.com/mavam/ml-driver): Linux kernel driver for the DreamCheeky USB missile launcher
-- 📮 [quarto-brief](https://github.com/mavam/quarto-brief): A [Quarto](https://quarto.org/) template for a DIN 5008 letter
-- 💌 [quarto-mail](https://github.com/mavam/quarto-mail): Email as a build artifact: author in Markdown, render text and HTML
+- 📮 [quarto-brief](https://github.com/mavam/quarto-brief): a [Quarto](https://quarto.org/) template for a DIN 5008 letter
+- 💌 [quarto-mail](https://github.com/mavam/quarto-mail): email as a build artifact: author in Markdown, render text and HTML
