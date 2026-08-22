@@ -29,6 +29,7 @@ Data fun:
 - ✨ [pi-fancy-footer](https://github.com/mavam/pi-fancy-footer): compact, two-line fancy status footer
 - 🌍 [pi-web-providers](https://github.com/mavam/pi-web-providers): configurable web provider routing for pi tools
 - 🧳 [pi-mcporter](https://github.com/mavam/pi-mcporter): stable bridge from pi to MCP tools
+- 🐙 [pi-prs](https://github.com/mavam/pi-prs): GitHub pull request status and lifecycle management
 - ⚡ [pi-service-tier](https://github.com/mavam/pi-service-tier): service-tier controls
 - 🚦 [pi-worktrunk](https://github.com/mavam/pi-worktrunk): [Worktrunk](https://worktrunk.dev/) branch markers for pi activity
 
