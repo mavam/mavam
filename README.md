@@ -27,7 +27,7 @@ Data fun:
 - 🤖 [pi-agents](https://github.com/mavam/pi-agents): agent orchestration framework for pi
 - 🌈 [pi-banner](https://github.com/mavam/pi-banner): rainbow π ASCII art banner for pi
 - ✨ [pi-fancy-footer](https://github.com/mavam/pi-fancy-footer): compact, two-line fancy status footer
-- 🌍 [pi-web-providers](https://github.com/mavam/pi-web-providers): configurable web provider routing for pi tools
+- 🦊 [webfox](https://github.com/mavam/webfox): configurable web search, page extraction, answers, and research for pi
 - 🧳 [pi-mcporter](https://github.com/mavam/pi-mcporter): stable bridge from pi to MCP tools
 - 🐙 [pi-prs](https://github.com/mavam/pi-prs): GitHub pull request status and lifecycle management
 - ⚡ [pi-service-tier](https://github.com/mavam/pi-service-tier): service-tier controls
@@ -35,6 +35,7 @@ Data fun:
 
 Random:
 
+- 🦊 [webfox](https://github.com/mavam/webfox): standalone web-access toolkit with a CLI and TypeScript library
 - 🛠️ [skeel](https://github.com/mavam/skeel): declarative skill management for GitOps workflows
 - 📊 [clattio](https://github.com/mavam/clattio): [Attio](https://attio.com) CLI
 - ❣️ [dotfiles](https://github.com/mavam/dotfiles): the very heart of an efficient work environment
