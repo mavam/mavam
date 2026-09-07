@@ -28,7 +28,7 @@ Data fun:
 - 🌈 [pi-banner](https://github.com/mavam/pi-banner): rainbow π ASCII art banner for pi
 - ✨ [pi-fancy-footer](https://github.com/mavam/pi-fancy-footer): compact, two-line fancy status footer
 - 🦊 [webfox](https://github.com/mavam/webfox): configurable web search, page extraction, answers, and research for pi
-- 🧳 [pi-mcporter](https://github.com/mavam/pi-mcporter): stable bridge from pi to MCP tools
+- 🔌 [pi-mcp-client](https://github.com/mavam/pi-mcp-client): on-demand MCP tool discovery and native calls for pi
 - 🐙 [pi-prs](https://github.com/mavam/pi-prs): GitHub pull request status and lifecycle management
 - ⚡ [pi-service-tier](https://github.com/mavam/pi-service-tier): service-tier controls
 - 🚦 [pi-worktrunk](https://github.com/mavam/pi-worktrunk): [Worktrunk](https://worktrunk.dev/) branch markers for pi activity
