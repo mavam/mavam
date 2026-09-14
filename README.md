@@ -38,7 +38,6 @@ Random:
 - 🦊 [webfox](https://github.com/mavam/webfox): standalone web-access toolkit with a CLI and TypeScript library
 - 🛠️ [skeel](https://github.com/mavam/skeel): declarative skill management for GitOps workflows
 - 📊 [clattio](https://github.com/mavam/clattio): [Attio](https://attio.com) CLI
-- ❣️ [dotfiles](https://github.com/mavam/dotfiles): the very heart of an efficient work environment
 - 🔫 [ml-driver](https://github.com/mavam/ml-driver): Linux kernel driver for the DreamCheeky USB missile launcher
 - 📮 [quarto-brief](https://github.com/mavam/quarto-brief): a [Quarto](https://quarto.org/) template for a DIN 5008 letter
 - 💌 [quarto-mail](https://github.com/mavam/quarto-mail): email as a build artifact: author in Markdown, render text and HTML
