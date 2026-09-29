@@ -27,7 +27,6 @@ Data fun:
 - 🤖 [pi-agents](https://github.com/mavam/pi-agents): agent orchestration framework for pi
 - 🌈 [pi-banner](https://github.com/mavam/pi-banner): rainbow π ASCII art banner for pi
 - ✨ [pi-fancy-footer](https://github.com/mavam/pi-fancy-footer): compact, two-line fancy status footer
-- 🦊 [webfox](https://github.com/mavam/webfox): configurable web search, page extraction, answers, and research for pi
 - 🔌 [pi-mcp-client](https://github.com/mavam/pi-mcp-client): on-demand MCP tool discovery and native calls for pi
 - 🐙 [pi-prs](https://github.com/mavam/pi-prs): GitHub pull request status and lifecycle management
 - ⚡ [pi-service-tier](https://github.com/mavam/pi-service-tier): service-tier controls
@@ -35,7 +34,7 @@ Data fun:
 
 Random:
 
-- 🦊 [webfox](https://github.com/mavam/webfox): standalone web-access toolkit with a CLI and TypeScript library
+- 🦊 [webfox](https://github.com/mavam/webfox): web-access via CLI and TypeScript library (+Pi extension)
 - 🛠️ [skeel](https://github.com/mavam/skeel): declarative skill management for GitOps workflows
 - 📊 [clattio](https://github.com/mavam/clattio): [Attio](https://attio.com) CLI
 - 🔫 [ml-driver](https://github.com/mavam/ml-driver): Linux kernel driver for the DreamCheeky USB missile launcher
