@@ -25,7 +25,7 @@ Data fun:
 [Pi](https://pi.dev) extensions:
 
 - 🤖 [pi-agents](https://github.com/mavam/pi-agents): agent orchestration framework for pi
-- 🌈 [pi-banner](https://github.com/mavam/pi-banner): rainbow π ASCII art banner for pi
+- 🌈 [pi-splash](https://github.com/mavam/pi-splash): custom startup splash screen with rainbow π ASCII art
 - ✨ [pi-fancy-footer](https://github.com/mavam/pi-fancy-footer): compact, two-line fancy status footer
 - 🔌 [pi-mcp-client](https://github.com/mavam/pi-mcp-client): on-demand MCP tool discovery and native calls for pi
 - 🐙 [pi-prs](https://github.com/mavam/pi-prs): GitHub pull request status and lifecycle management
