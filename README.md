@@ -22,15 +22,14 @@ Data fun:
 - 📗 [abstract-algebra-cheatsheet](https://github.com/mavam/abstract-algebra-cheatsheet): visual summary of key structures in abstract algebra
 - ⏳ [compbench](https://github.com/mavam/compbench): benchmark and visualization of compression algorithms
 
-[Pi](https://pi.dev) extensions:
+Pi extensions:
 
-- 🤖 [pi-agents](https://github.com/mavam/pi-agents): agent orchestration framework for pi
-- 🌈 [pi-splash](https://github.com/mavam/pi-splash): custom startup splash screen with rainbow π ASCII art
-- ✨ [pi-fancy-footer](https://github.com/mavam/pi-fancy-footer): compact, two-line fancy status footer
-- 🔌 [pi-mcp-client](https://github.com/mavam/pi-mcp-client): on-demand MCP tool discovery and native calls for pi
-- 🐙 [pi-prs](https://github.com/mavam/pi-prs): GitHub pull request status and lifecycle management
-- ⚡ [pi-service-tier](https://github.com/mavam/pi-service-tier): service-tier controls
-- 🚦 [pi-worktrunk](https://github.com/mavam/pi-worktrunk): [Worktrunk](https://worktrunk.dev/) branch markers for pi activity
+- 🤖 [pi-agents](https://github.com/mavam/pi-agents): durable agent orchestration layer
+- 🌈 [pi-splash](https://github.com/mavam/pi-splash): spinning 3D logo splash on startup
+- ✨ [pi-fancy-footer](https://github.com/mavam/pi-fancy-footer): sleek two-line status footer
+- 🐙 [pi-prs](https://github.com/mavam/pi-prs): PR review feedback, CI failures, and watching
+- ⚡ [pi-service-tier](https://github.com/mavam/pi-service-tier): fast mode and provider service tiers
+- 🚦 [pi-worktrunk](https://github.com/mavam/pi-worktrunk): [Worktrunk](https://worktrunk.dev/) commands, agent tool, and session moves
 
 Random:
 
