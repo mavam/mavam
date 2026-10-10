@@ -29,13 +29,13 @@ Pi extensions:
 - ✨ [pi-fancy-footer](https://github.com/mavam/pi-fancy-footer): sleek two-line status footer
 - 🐙 [pi-prs](https://github.com/mavam/pi-prs): PR review feedback, CI failures, and watching
 - ⚡ [pi-service-tier](https://github.com/mavam/pi-service-tier): fast mode and provider service tiers
-- 🚦 [pi-worktrunk](https://github.com/mavam/pi-worktrunk): [Worktrunk](https://worktrunk.dev/) commands, agent tool, and session moves
+- 🚦 [pi-worktrunk](https://github.com/mavam/pi-worktrunk): Worktrunk commands, agent tool, and session moves
 
 Random:
 
 - 🦊 [webfox](https://github.com/mavam/webfox): web-access via CLI and TypeScript library (+Pi extension)
 - 🛠️ [skeel](https://github.com/mavam/skeel): declarative skill management for GitOps workflows
-- 📊 [clattio](https://github.com/mavam/clattio): [Attio](https://attio.com) CLI
+- 📊 [clattio](https://github.com/mavam/clattio): Attio CLI
 - 🔫 [ml-driver](https://github.com/mavam/ml-driver): Linux kernel driver for the DreamCheeky USB missile launcher
-- 📮 [quarto-brief](https://github.com/mavam/quarto-brief): a [Quarto](https://quarto.org/) template for a DIN 5008 letter
+- 📮 [quarto-brief](https://github.com/mavam/quarto-brief): a Quarto template for a DIN 5008 letter
 - 💌 [quarto-mail](https://github.com/mavam/quarto-mail): email as a build artifact: author in Markdown, render text and HTML
