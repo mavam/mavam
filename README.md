@@ -28,6 +28,7 @@ Pi extensions:
 - 🌈 [pi-splash](https://github.com/mavam/pi-splash): spinning 3D logo splash on startup
 - ✨ [pi-fancy-footer](https://github.com/mavam/pi-fancy-footer): sleek two-line status footer
 - 🐙 [pi-prs](https://github.com/mavam/pi-prs): PR review feedback, CI failures, and watching
+- 🦖 [pi-rex](https://github.com/mavam/pi-rex): Rex integration and session recovery
 - ⚡ [pi-service-tier](https://github.com/mavam/pi-service-tier): fast mode and provider service tiers
 - 🚦 [pi-worktrunk](https://github.com/mavam/pi-worktrunk): Worktrunk commands, agent tool, and session moves
 - ⌨️ [pi-vim-editor](https://github.com/mavam/pi-vim-editor): Vim-style prompt editing
